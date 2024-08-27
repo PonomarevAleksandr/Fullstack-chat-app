@@ -63,7 +63,7 @@
 
 ```bash
 git clone https://github.com/PonomarevAleksandr/Fullstack-chat-app.git
-cd FullStack-chat-app
+cd Fullstack-chat-app
 ```
 
 **Установка**
