@@ -62,7 +62,7 @@
 **Клонирование репозитория**
 
 ```bash
-git clone https://github.com/PonomarevAleksandr/FullStack-chat-app.git
+git clone https://github.com/PonomarevAleksandr/Fullstack-chat-app.git
 cd FullStack-chat-app
 ```
 
@@ -83,7 +83,7 @@ DATABASE_URL=
 NEXTAUTH_SECRET=
 GOOGLE_CLIENT_ID=
 GOOGLE_CLIENT_SECRET=
-NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME
+NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=
 NEXT_PUBLIC_CLOUDINARY_API_KEY=
 NEXT_PUBLIC_CLOUDINARY_API_SECRET=
 CLOUDINARY_URL=
